@@ -1,0 +1,15 @@
+{
+    "name": "funny-proj",
+    "version": "1.0.0",
+    "description": "fun vende",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "ikp-773",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.2",
+        "express-handlebars": "^6.0.2"
+    }
+}
